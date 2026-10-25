@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+.swiftpm/
+dist/
+*.dmg
+*.xcodeproj
+xcuserdata/
+.cache/
+.tools/
+.idea/
+.vscode/
+*.xcuserstate
